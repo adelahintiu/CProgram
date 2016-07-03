@@ -1,0 +1,6 @@
+c:\users\adela\documents\visual studio 2015\Projects\YoutubeSongStatus\FirstProgram\bin\Debug\FirstProgram.exe.config
+c:\users\adela\documents\visual studio 2015\Projects\YoutubeSongStatus\FirstProgram\bin\Debug\FirstProgram.exe
+c:\users\adela\documents\visual studio 2015\Projects\YoutubeSongStatus\FirstProgram\bin\Debug\FirstProgram.pdb
+c:\users\adela\documents\visual studio 2015\Projects\YoutubeSongStatus\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+c:\users\adela\documents\visual studio 2015\Projects\YoutubeSongStatus\FirstProgram\obj\Debug\FirstProgram.exe
+c:\users\adela\documents\visual studio 2015\Projects\YoutubeSongStatus\FirstProgram\obj\Debug\FirstProgram.pdb
